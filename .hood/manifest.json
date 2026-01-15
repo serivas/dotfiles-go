@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "last_modified": "2026-01-15T00:48:30Z",
+  "last_modified_by": "unknown",
+  "files": {
+    "base/.zshrc": {"hash": "sha256:c662750ed97937eb38b639b9176ec23348b81e81b4f5c78d8f682f51ede256b4", "size": 10294, "modified": "2026-01-15T00:48:30Z"}
+  }
+}
