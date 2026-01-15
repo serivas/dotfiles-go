@@ -1,7 +1,7 @@
 {
   "version": 2,
   "schema_version": "2.0.0",
-  "last_modified": "2026-01-15T17:06:40.926315901Z",
+  "last_modified": "2026-01-15T17:07:34.751690839Z",
   "last_modified_by": "test_machine",
   "base": {
     ".newfile_test": {
@@ -22,7 +22,13 @@
   },
   "machines": {
     "test_machine": {
-      "chunks": {},
+      "chunks": {
+        ".test_local_file.json": {
+          "hash": "sha256:ea059138c2776134b407db552342f31c861d5354e4ad3b7c6bbc2df629998a99",
+          "size": 247,
+          "modified": "2026-01-15T17:07:34.751690839Z"
+        }
+      },
       "assembled": {
         ".newfile_test": {
           "hash": "sha256:a1fff0ffefb9eace7230c24e50731f0a91c62f9cefdfe77121c2f607125dffae",
@@ -38,6 +44,11 @@
           "hash": "sha256:c5f86b173bb03dfed3563064297c7ba45fe569aff040e0aef75ff9d85befb7ab",
           "size": 137,
           "modified": "2026-01-15T05:20:09.820176124Z"
+        },
+        ".test_local_file": {
+          "hash": "sha256:71b97222a5748493e24ebe2369fc2e36437b9ad1ba6242e93c478d42f92bf380",
+          "size": 13,
+          "modified": "2026-01-15T17:07:34.751690839Z"
         }
       }
     }
