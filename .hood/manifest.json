@@ -1,13 +1,18 @@
 {
   "version": 2,
   "schema_version": "2.0.0",
-  "last_modified": "2026-01-15T05:38:19.836717226Z",
+  "last_modified": "2026-01-15T17:06:40.926315901Z",
   "last_modified_by": "test_machine",
   "base": {
     ".newfile_test": {
       "hash": "sha256:a1fff0ffefb9eace7230c24e50731f0a91c62f9cefdfe77121c2f607125dffae",
       "size": 13,
       "modified": "2026-01-15T05:38:19.836717226Z"
+    },
+    ".test_add_file": {
+      "hash": "sha256:062b88dd7335aa940f8470e85e188b2d08755b471ce44cf9e09ff8584c84c6f9",
+      "size": 12,
+      "modified": "2026-01-15T17:06:40.926315901Z"
     },
     ".test_config": {
       "hash": "sha256:c5f86b173bb03dfed3563064297c7ba45fe569aff040e0aef75ff9d85befb7ab",
@@ -23,6 +28,11 @@
           "hash": "sha256:a1fff0ffefb9eace7230c24e50731f0a91c62f9cefdfe77121c2f607125dffae",
           "size": 13,
           "modified": "2026-01-15T05:38:19.836717226Z"
+        },
+        ".test_add_file": {
+          "hash": "sha256:062b88dd7335aa940f8470e85e188b2d08755b471ce44cf9e09ff8584c84c6f9",
+          "size": 12,
+          "modified": "2026-01-15T17:06:40.926315901Z"
         },
         ".test_config": {
           "hash": "sha256:c5f86b173bb03dfed3563064297c7ba45fe569aff040e0aef75ff9d85befb7ab",
