@@ -1,13 +1,13 @@
 {
   "version": 2,
   "schema_version": "2.0.0",
-  "last_modified": "2026-01-15T02:07:42.394121418Z",
+  "last_modified": "2026-01-15T02:10:21.800933914Z",
   "last_modified_by": "test_machine",
   "base": {
     ".test_config": {
-      "hash": "sha256:3ec6ffadb2c3fd4e96736b7e5422b71a25abfd36337560a0520a5bddb92f06e4",
-      "size": 70,
-      "modified": "2026-01-15T02:07:41.417532888Z"
+      "hash": "sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c",
+      "size": 39,
+      "modified": "2026-01-15T02:10:20.559151984Z"
     }
   },
   "machines": {
@@ -17,7 +17,7 @@
         ".test_config": {
           "hash": "sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c",
           "size": 39,
-          "modified": "2026-01-15T02:07:41.417532888Z"
+          "modified": "2026-01-15T02:10:20.559151984Z"
         }
       }
     }
