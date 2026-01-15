@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "file": ".test_local_file",
+  "machine_id": "test_machine",
+  "chunks": [
+    {
+      "file": ".test_local_file",
+      "line": 0,
+      "content": "# local only\n",
+      "comment": "Full file content (local only)"
+    }
+  ]
+}
