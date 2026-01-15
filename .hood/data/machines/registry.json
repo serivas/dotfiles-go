@@ -7,6 +7,12 @@
       "first_seen": "2026-01-15T21:49:47.989710804Z",
       "last_sync": "2026-01-15T21:49:47.989710804Z"
     },
+    "test_machine": {
+      "hostname": "code",
+      "os": "Linux",
+      "first_seen": "2026-01-15T22:25:44.516643364Z",
+      "last_sync": "2026-01-15T22:25:44.516643364Z"
+    },
     "verify_go": {
       "hostname": "code",
       "os": "Linux",
