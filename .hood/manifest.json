@@ -1,11 +1,24 @@
-hash=sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c
-size=39
 {
-  "version": 1,
+  "version": 2,
+  "schema_version": "2.0.0",
   "last_modified": "2026-01-15T00:50:31Z",
-  "last_modified_by": "unknown",
-  "files": {
-    "machines/test_machine/assembled/.test_config": {"hash": "sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c", "size": 39, "modified": "2026-01-15T00:50:31Z"},
-    "base/.test_config": {"hash": "sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c", "size": 39, "modified": "2026-01-15T00:50:31Z"}
+  "last_modified_by": "test_machine",
+  "base": {
+    ".test_config": {
+      "hash": "sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c",
+      "size": 39,
+      "modified": "2026-01-15T00:50:31Z"
+    }
+  },
+  "machines": {
+    "test_machine": {
+      "assembled": {
+        ".test_config": {
+          "hash": "sha256:514c2776757b498dd870c97590047ba9fa9b0a7ccb390902f7bbd2b86a2fff1c",
+          "size": 39,
+          "modified": "2026-01-15T00:50:31Z"
+        }
+      }
+    }
   }
 }
