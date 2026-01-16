@@ -1,6 +1,12 @@
 {
   "version": 2,
   "machines": {
+    "epic_gates": {
+      "hostname": "code",
+      "os": "Linux",
+      "first_seen": "2026-01-16T22:14:32.83818262Z",
+      "last_sync": "2026-01-16T22:14:32.83818262Z"
+    },
     "goofy_hertz": {
       "hostname": "code",
       "os": "Linux",
